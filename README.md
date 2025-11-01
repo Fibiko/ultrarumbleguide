@@ -50,7 +50,8 @@ Click this image-button to go to the character guide selection!
 - 3400 - Overhaul 
 - 3700 - Twice 
 - 3800 - Mr. Compress 
-- 4300 - Hawks  
+- 4300 - Hawks
+- 4301 - Hawks (Slicing Wind)
 - 4600 - Itsuka Kendo 
 - 4601 - Itsuka Kendo (Twin Palm Strike)
 - 10000 - Mt - Lady 
@@ -59,7 +60,9 @@ Click this image-button to go to the character guide selection!
 - 10300 - Kurogiri 
 - 10400 - Neito Monoma 
 - 10500 - Hitoshi Shinso 
-- 10900 - Present Mic 
+- 10900 - Present Mic
+- 20100 - All For One (Youth Age)
+- 20200 - Izuku Midoriya OFA
 <!--<ol>
   <li value="100">Izuku Midoriya</li>
   <li value="101">Izuku Midoriya (Full Bullet)</li>
