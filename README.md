@@ -2,7 +2,13 @@
     <img style="border-radius: 15px;" src="https://ultrarumble.com/assets/guide/guide.jpg" width="100%"/>
 </p>
 
-# Ultimate Player Guide to My Hero Ultra Rumble
+# <a style="color: rgba(175,100,237,255) !important;">Ultimate Player Guide to My Hero Ultra Rumble</a><br>
+
+Welcome to the My Hero Ultra Rumble Ultimate Player Guide!
+This is a macro-guide that contains smaller guides, such as the New Player Guide, the Character Guides, the General Player Guide, the TUNING Guide and the Teamwork Guide. You can click one of the buttons below to travel to the one you're interested in.
+
+# <a style="color: rgba(175,100,237,255) !important;">NEW PLAYER GUIDE</a><br>
+
 ## CHARACTER GUIDES
 Click this image-button to go to the character guide selection!
 
@@ -99,6 +105,7 @@ Click this image-button to go to the character guide selection!
   <li value="3700">Twice</li>
   <li value="3800">Mr. Compress</li>
   <li value="4300">Hawks</li>
+  <li value="10900">Hawks (Slicing Wind)</li>
   <li value="4600">Itsuka Kendo</li>
   <li value="4601">Itsuka Kendo (Twin Palm Strike)</li>
   <li value="10000">Mt. Lady</li>
@@ -108,6 +115,8 @@ Click this image-button to go to the character guide selection!
   <li value="10400">Neito Monoma</li>
   <li value="10500">Hitoshi Shinso</li>
   <li value="10900">Present Mic</li>
+  <li value="10900">All For One (Youth age)</li>
+  <li value="10900">Izuku Midoriya OFA</li>
 </ol>-->
 <!--
 DO NOT DELETE THIS LIST!
@@ -146,6 +155,7 @@ DO NOT DELETE THIS LIST!
 3700. Twice (Default)
 3800. Mr. Compress (Default)
 4300. Hawks (Default) 
+4301. Hawks (Slicing Wind)
 4600. Itsuka Kendo (Default)
 4601. Itsuka Kendo (Twin Palm Strike)
 10000. Mt. Lady (Default)
@@ -154,7 +164,9 @@ DO NOT DELETE THIS LIST!
 10300. Kurogiri
 10400. Neito Monoma
 10500. Hitoshi Shinso
-10900. Present Mic-->
+10900. Present Mic
+20100. All For One (Youth age)
+20200. Izuku Midoriya OFA-->
 <br/>
 
 *Made for the community by the community*
