@@ -246,7 +246,7 @@ Around the map you will see Item Boxes, which open instantly when interacted wit
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/goldenitembox.png" />
 </p>
 
-At the beginning of every match, a Large Item Box will spawn somewhere, which you will be able to see in the Sally, but don't worry if you're not able to open this box, as more land around the map periodically. You can see where they'll land or where they're located through both the minimap or by looking around, as Large Item Boxes are signaled by a huge yellow beam you can see so long as no building is blocking your view. Large Item Boxes take a long time to open, so often you will only be able to open them if you're alone. These boxes drop a lot of items, some of which are very valuable, such as Team Enhancement Kits, Large Item Bags, and Full Revive Cards.
+At the beginning of every match, a Large Item Box will spawn somewhere, which you will be able to see in the Sally, but don't worry if you're not able to open this box, as more land around the map periodically. You can see where they'll land or where they're located through both the minimap or by looking around, as Large Item Boxes are signaled by a huge yellow beam you can see so long as no building is blocking your view. Large Item Boxes take a long time to open, so often you will only be able to open them if you're alone. These boxes drop a lot of items, some of which are very valuable, such as Team Enhancement Kits, Large Item Bags, and Full Revive Cards. 
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/largeitembox.png" width="480"/>
 </p>
@@ -262,14 +262,27 @@ Items are also spread around the world, so boxes aren't the only source of them.
 | <img src="https://ultrarumble.com/assets/Supply/T_ui_HUD_Su005.webp" width="125"> | **GP Recovery Drink (Large)** <br>Recovers all of your GP, though it takes longer to drink. Only one can be stacked per bag slot.|
 | <img src="https://ultrarumble.com/assets/Supply/T_ui_HUD_Su006.webp" width="125"> | **Team GP Recovery Kit** <br>Also known as Blue Teamheals, they restore the whole team's GP. These are obtained through rescuing Blue-Clothed Civilians.|
 | <img src="https://ultrarumble.com/assets/Supply/T_ui_HUD_Su007.webp" width="125"> | **Full Support Drink** <br>Also known as Teamheals, they restore the whole team's HP and GP. Only one can be stacked per bag slot. These are incredibly powerful, and can easily change the outcome of a battle and even make the difference as to who wins the match. You have to gamble a bit with these, since if you drink them too late, a teammate might be DOWNd before you finish drinking this item, wasting its value. But if you drink it too early, the HP and GP you will regenerate for the team will be little, wasting value, so you gotta know when to use it an  extract the biggest value possible. These can be rarely dropped from Gold Item Boxes or found around the map, but are commonly dropped from Large Item Boxes.|
-| <img src="https://ultrarumble.com/assets/roleslots/T_ui_UniqueSkill_ch002_00.png" width="125"> | **Crushing PU Charge** <br>Reliable and supports aggro playstyles.|
-| <img src="https://ultrarumble.com/assets/roleslots/T_ui_UniqueSkill_ch037_00.png" width="125"> | **Card Duplication** <br>Good for offsetting needing to fight with how level dependant she is.|
-| <img src="https://ultrarumble.com/assets/roleslots/T_ui_UniqueSkill_ch102_00.png" width="125"> | **Divine Protection** <br>Toga is nimble enough to get in and out of places when she wants so snagging unattended boxes is no challenge for her.|
-| <img src="https://ultrarumble.com/assets/roleslots/T_ui_UniqueSkill_ch026_00.png" width="125"> | **Ability Manifest** <br>It's nice if you play with it in mind and carries over into transformations.|
-| <img src="https://ultrarumble.com/assets/roleslots/T_ui_UniqueSkill_ch034_00.png" width="125"> | **Reinforced Revive** <br>Works when copying someone who has the tune as well but usually convienient since most revive characters run it.|
-| <img src="https://ultrarumble.com/assets/roleslots/T_ui_UniqueSkill_ch007_01.png" width="125"> | **Electrification** <br>Useful when used in combination with beta and for protection or roll catching if they try to roll your beta.|
-| <img src="https://ultrarumble.com/assets/roleslots/T_ui_UniqueSkill_ch012_01.png" width="125"> | **Muscle Form** <br>Only works if you activate PU as base Toga. The anti-flinch is very useful but don't sleep on the HP gain either.|
-| <img src="https://ultrarumble.com/assets/roleslots/T_ui_UniqueSkill_ch024_01.png" width="125"> | **Critical Permeation** <br>If you're guardbroken while holding alpha or beta you can continue to attack while critical permeation activates, which is nice.|
+| <img src="https://ultrarumble.com/assets/Supply/T_ui_HUD_Su011.webp" width="125"> | **Level-Up Card** <br>A basic yet valuable item that is used to level up one ability. Upon collecting one, a prompt will appear in your screen, which you can follow to level up the skill you want to strengthen. Level-Up cards emit a small rainbow beam of light upwards, which makes them easier to spot when behind a small obstacle or from the distance. Nine can be stacked per bag slot.|
+| <img src="https://ultrarumble.com/assets/Supply/T_ui_HUD_Su015.webp" width="125"> | **Team Enhancement Kit** <br>These are the rarest of all items, they level the alpha, beta and gamma of your whole team by 1, essentially granting 3 level ups to each teammate. These can either be found as a drop from Large Item Boxes (which will drop one), or through rescuing Kota, which will grant you 3 of these Team Enhancement Kits. Only one can be stacked per pag slot. Unlike the rest of the drinks, this can be drunk instantly.|
+| <img src="https://ultrarumble.com/assets/Supply/T_ui_HUD_Su020.webp" width="125"> | **Revive Card (Incomplete)** <br>These can be obtained from normal or golden Item Boxes, but the main way to obtain them is from rescuing Civilians, as doing so will drop their respective teamheal and an incomplete Revive Card. As the name suggests, these cards are incomplete, you need 3 so that they can combine into one single Full Revive Card, you can tell both apart because incomplete cards are gray, while full cards are pink. They can stack in one slot.|
+| <img src="https://ultrarumble.com/assets/Supply/T_ui_HUD_Su021.webp" width="125"> | **Revive Card (Full)** <br>After collecting 3 incomplete Revive Cards, these will merge into a full Revive Card. To use it you need to collect your teammate's badges, which look like a white coin and can be found at the location where your teammates died. If you don't know where they died, you can just check the minimap, or look around you, you should see their names floating on-screen. After obtaining this card, just use it and the Revive animation will start. Be aware that a huge pink beam will be emitted from your location, so enemies can see where you're reviving your allies, they can also hear the revive noise. Full Revive Cards can be found in Large Item Boxes without the need of collecting incomplete ones.|
+
+Excluding Team Enhancement Kits, all drinking items make you emit a drinking noise that can be heard by enemies nearby, so keep that in mind.
+
+# Gameplay: Civilians, Stage Destruction, Rescue and Teammate Revival
+# Gameplay: The Poison Mist and the Safe Zone
+# Gameplay: Stage Gimmicks
+# Gameplay: Tips to Win
+# Ranked: Ranks and Gaining Points
+# Currencies and Their Usage
+# Missions and The Research Notebook
+# The Hero License and the Special License
+# The Gacha: Unlocking New Characters, Costumes and Emotes
+# Events
+# Agencies
+# Training Mode
+# Area Control Battle Mode
+# Moving Forward
 
 ## CHARACTER GUIDES
 Click this image-button to go to the character guide selection!
