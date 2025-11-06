@@ -278,11 +278,11 @@ Another type of items are Ability Cards, these can appear red, yellow, blue, gre
 
 The other usage of Ability Cards is to trigger special buffs. When you have an Ability Card that doesn't match your class, you have two options: Either you give it to your teammate if it matches their class, or you keep it to yourself. If you do the latter, you can use them in battle by pressing the buttons indicated in the Quick Item bar. Each card grants different buffs based on which of the 5 classes they are from:
 
-<a style="color: rgba(255,100,100,255) !important;">**Strike Ability Card:**</a>Increases the user's damage by 10%.<br>
-<a style="color: yellow !important;">**Assault Ability Card:**</a>Increases the user's defense by 20$.<br>
-<a style="color: cyan !important;">**Rapid Ability Card:**</a>Increases the user's movement and attack speed by 10% and grants them the ability to wallrun.<br>
-<a style="color: lime !important;">**Support Ability Card:**</a>Grants the user a healing field that heals them and allies inside the field. The field moves with you.<br>
-<a style="color: rgba(175,100,237,255) !important;">**Technical Ability Card:**</a>Increases reload speed by 50%.<br>
+<a style="color: rgba(255,100,100,255) !important;">**Strike Ability Card:**</a> Increases the user's damage by 10%.<br>
+<a style="color: yellow !important;">**Assault Ability Card:**</a> Increases the user's defense by 20$.<br>
+<a style="color: cyan !important;">**Rapid Ability Card:**</a> Increases the user's movement and attack speed by 10% and grants them the ability to wallrun.<br>
+<a style="color: lime !important;">**Support Ability Card:**</a> Grants the user a healing field that heals them and allies inside the field. The field moves with you.<br>
+<a style="color: rgba(175,100,237,255) !important;">**Technical Ability Card:**</a> Increases reload speed by 50%.<br>
 
 Once you use them, they will grant you their effect for a couple of seconds and vanish afterwards. Ability Cards can be leveled up with Level-Up cards by dragging them to the Ability Card, or by finding another Ability Card that belongs to the same class and has the same greek letter, leveling up these cards will make them last longer.<br>
 Using Ability Cards gives the user a colored shine, so you can sometimes see if the enemy has a special attack, defense, speed, healing or reload boost based on the color of their shining.
