@@ -391,8 +391,15 @@ Climbing is your way to get on top of high places when you don't have mobility s
 # Gameplay: Useful Shortcuts and Tips to Win
 The game also features special shortcuts and wheels that can be really useful. For example, if you press the "Change Item" key (check your settings to know which button that is) you will access your item wheel, which lets you quickly drink whichever drink you wanna drink without checking the inventory (the Quick Item Bar might not always show the item you really wanna use, so this is useful for that too). Using the Place Marker button on one of these will let your teammates know that you ran out of that specific item, however this has a twist...<br>
 If your teammates use that on Small or Large recovery items, it does mean they ran out of them and need you to give them some if possible, HOWEVER, if this is done on Teamheals, it means that your teammate is in the process of drinking one, and is telling you to do your best to survive so you can be healed. If this is done on Team Enhancement Kits (the ones that level up your whole team), then it usually means that your teammate is asking you or the other teammate to drink it, since people sometimes forget.
+<p align="center">
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/itemwheel.png" width="400"/>
+</p>
 
 If you check the settings, you will also see buttons for "Voice" and "Emote", these will open the voice wheel and the emote wheel respectively.  The voice wheel allows you to use voicelines to communicate with your teammates, such as Greetings (to set up a good mood), a thank you voiceline, an apology voiceline, etc... Don't take voicelines literally every time, since some characters can have pretty rude voicelines for thanking and similar. The emote wheel on the other hand lets you perform little animations to socialize or communicate with the enemy. If you're nice to people in the lobby, you might get treated less harshly in matches, or you might get funny interactions!
+<p align="center">
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/emotewheel.png" width="400"/>
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/voicewheel.png" width="400"/>
+</p>
 
 If you use the Place Marker button while looking at an item, you will pin it for your allies to see, this is often used on Ability Cards matching your teammate's character class so that they can pick it up and level up. This can also be done with any other items such as healing items or revive cards.
 
