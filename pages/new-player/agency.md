@@ -44,6 +44,9 @@ The third feature are the three donation points: Aid Center, Gym and Agency. You
 Leveling Aid Center will increase the amount of Contribution Points your agency gains, which are basically the Agency equivalent of ranked points.
 Leveling Gym will increase the amount of Player EXP you gain. Not the most useful thing.
 Leveling Agency will increase the amount of Gold you gain, not really a resource you will often find yourself lacking if at all.
+<p align="center">
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/agencytuto6.png" width="800"/>
+</p>
 
 Leveling these three donation points is important to raise the overall Agency Level, which will allow the agency to sustain more members, as new agencies can only support 10 players, while max level agencies can support up to 40 players.
 
@@ -53,6 +56,9 @@ On the left side you might also see stuff concerning leagues, but that's for lat
 In the member tab you can see every player currently in the agency and whether or not they're online. You can also see their Contribution Points and even send them likes. The player with a golden flag is the leader, while silver flags represent co-leaders.
 
 Leaders from agencies tha tcare about their ranking often use the "Sort" button on the upper left side to sort members by Most or Least Contribution Points, so remember to use this if you're the leader of an agency aiming for the top.
+<p align="center">
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/agencytuto7.png" width="400"/>
+</p>
 
 ## Records
 Here you will see general notifications such as an agency member's winstreak or other changes to the agency.
@@ -60,67 +66,21 @@ Here you will see general notifications such as an agency member's winstreak or 
 ## Bulletin Board
 The agency's chat, that's really it.
 
-
-Reaching Beginner II requires 1,000 pts, while reaching Beginner III requires you to reach the 2,500 pts mark. Once you leave Beginner III and reach the next rank, you won't be able to be demoted back to Beginner, even after a seasonal reset.
+# Agencies: Ranking and Leagues
+While players climb the player ranking by receiving likes (Bulletin Board) and gaining points in ranked matches (MVP), agencies climb ranks through simply playing matches. Everytime you play a match, you get a certain amount of Contribution Points that is higher the better you perform in a match, however, unlike ranked points for individual players, these do not go down, so agency rankings are mostly about who plays the most matches in a season. Unfortunately, the top 15~ agencies (at least on Steam) are cheat agencies, so those placements are lost. The higher your agency places in the ranking, the better your rewards will be. Click the "See Rewards" button for more information.
 <p align="center">
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/beginner1.png" width="200"/>
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/beginner2.png" width="200"/>
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/beginner3.png" width="200"/>
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/agencytuto8.png" width="400"/>
 </p>
 
-To leave Beginner III you need to get to 4,500 pts. Once you do that, you will reach Amateur I. Unlike Beginner, Amateur has 4 sub-ranks, and it does have an Entry Cost. 
-- Amateur II is reached at the 8,000 pts mark, and your base Entry Cost will be 150 pts until you reach this rank.
-- Amateur III is reached at the 13,000 pts mark, and your base Entry Cost will be 200 pts until you reach this rank.
-- Amateur IV is reached at the 21,000 pts mark, and your base Entry Cost will be 250 pts until you reach this rank.
+We also have the Elite Agency ranking. For a limited amount of time, all agencies will be ranked based on the Contribution Points of the agency's Top 10 members. When the Elite Agency countdown reaches zero (you can see this in the See Rewards button), your agency will be promoted to a higher league or demoted to a lower league. Promotion or Demotion depend on whether you place above or below the Promotion Line (which you can see on the left side). If you place below the Promotion Line, you will be demoted (unless you're Rookie League, since that's the lowest), but if you place higher, you will be promoted to the next League. You wanna place high to get extra rewards.
 <p align="center">
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/amateur1.png" width="200"/>
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/amateur2.png" width="200"/>
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/amateur3.png" width="200"/>
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/amateur4.png" width="200"/>
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/agencytuto9.png" width="400"/>
 </p>
 
-After Amateur Rank follows Pro Rank, also known by some as "Gold". You can be demoted to a lower Expert rank if you lose enough points, but you cannot be demoted back to Amateur Rank. The point requirements and Entry Costs are as follows:
-- Pro I is reached at the 33,000 pts mark, and your base Entry Cost will be 300 pts until you reach this rank.
-- Pro II is reached at the 47,000 pts mark, and your base Entry Cost will be 500 pts until you reach this rank.
-- Pro III is reached at the 63,000 pts mark, and your base Entry Cost will be 550 pts until you reach this rank.
-- Pro IV is reached at the 81,000 pts mark, and your base Entry Cost will be 600 pts until you reach this rank.
-- Pro V is reached at the 101,000 pts mark, and your base Entry Cost will be 650 pts until you reach this rank.
-<p align="center">
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/pro1.png" width="180"/>
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/pro2.png" width="180"/>
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/pro3.png" width="180"/>
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/pro4.png" width="180"/>
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/pro5.png" width="180"/>
-</p>
+The leagues are, from lowest to highest:
 
-After Pro Rank follows Expert Rank, also known by some as "Obsidian". You can be demoted to a lower Expert rank if you lose enough points, but you cannot be demoted back to Pro Rank. The point requirements and Entry Costs are as follows:
-- Expert I is reached at the ??? pts mark, and your base Entry Cost will be 700 pts until you reach this rank.
-- Expert II is reached at the ??? pts mark, and your base Entry Cost will be 800 pts until you reach this rank.
-- Expert III is reached at the ??? pts mark, and your base Entry Cost will be 900 pts until you reach this rank.
-<p align="center">
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/expert1.png" width="200"/>
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/expert2.png" width="200"/>
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/expert3.png" width="200"/>
-</p>
-
-After Expert Rank follows the final rank, Ace Rank. Unlike Expert, Pro, Amateur and Beginner, Ace does not have sub-ranks. Once youv'e reached Ace you've basically hit the summit, as there are no more ranks after and you'll obtain the last batch of ranked rewards. To reach Ace Rank you need to reach the 126,000 pts mark. The journey between Expert III and Ace will have an entry cost of 1,000 pts, which will increase to 1,100 pts the moment you reach Ace Rank.
-<p align="center">
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/ace.png" width="200"/>
-</p>
-
-However, the grind is not truly over after reaching Ace, since the game offers an actual ranking featuring the 2,500 players with the highest ranked point count. Thsoe below the top 1,000 will get a small amount of tickets, while those that are in the top 1,000 get extra rewards, those who reach top 500 get even better rewards. The top 100 players get the 2nd best rewards, while the top 10 get the best of the best. The difference in terms of non-cosmetic rewards is pretty low, so if you're not somebody with a lot of time then this might not be worth it, but if you do have time, then you can play some more and squeeze some extra tickets. The ranking can be viewed-
-<p align="center">
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/mvpscreen.png" width="600"/>
-</p>
-
-There's also another ranking that gives players rewards: The Billboard Chart.
-When opening profiles, you will see a like button. Clicking it will send the player "likes". You can send likes by clicking on an agency's member name in the agency member list or by using the like button in Spectator Mode while you're dead in match. Just like the normal ranked ranking, those below the top 1,000 get a few tickets, while those in the top 1,000, 500, 100 and 10 each get a better set of rewards.
-<p align="center">
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/billboardchart.png" width="600"/>
-</p>
-
-To access the base ranking (MVP) and the Billboard Chart, just click the "Menu" button on the bottom right and then click "Rankings".
-<p align="center">
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/rankingtuto1.png" width="400"/>
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/rankingtuto2.png" width="400"/>
-</p>
+- Rookie League
+- ??? League
+- ??? League
+- Ultra League
+- Plus Ultra League
