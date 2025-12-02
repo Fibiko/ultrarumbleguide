@@ -36,7 +36,7 @@ Another option you have is to create your very own agency by going to the "Creat
 Agencies have 4 tabs: Main, Member, Records and Bulletin Board.
 
 ## Main
-Aside from the main info like the agency's leader and agency description, you will find a few features. The first feature is License EXP Boost, a button only agency leaders and co-leaders can press that for a limited amount of time will trigger a License EXP Boost. You should try to play as much as possible while this boost is active to level up your license as fast as possible.
+Aside from the main info like the agency's leader and agency description, you will find a few features. The first feature is License EXP Boost, a button only agency leaders and co-leaders can press when the agency levels up, which for a limited amount of time will trigger a License EXP Boost. You should try to play as much as possible while this boost is active to level up your license as fast as possible.
 
 The second feature is white "Menu" button on the right, where you can invite people to the agency, leave, see the amount of people that applied to join the agency (and accept/decline them if you're a leader/co-leader), or change the agency's information if your authority is high enough.
 
