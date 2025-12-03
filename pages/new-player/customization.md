@@ -2,14 +2,20 @@
     <img style="border-radius: 15px;" src="https://ultrarumble.com/assets/guide/newplayerguide.jpg" width="100%"/>
 </p>
 
-# <a style="color: rgba(175,100,237,255) !important;">CUSTOMIZATION: Skins, Emotes, My Room, My Ad and Nameplates!</a><br>
-In this sub-guide you'll learn about customization! This includes changing the skin/costume of your character, their emotes and their voicelines, as well as setting up My Room, My Ad, and choosing a different nameplate!
+# <a style="color: rgba(175,100,237,255) !important;">CUSTOMIZATION: Skins, Emotes, My Room, My Banner and Nameplates!</a><br>
+In this sub-guide you'll learn about customization! This includes changing the skin/costume of your character, their emotes and their voicelines, as well as setting up My Room, My Banner, and choosing a different nameplate!
 
 # Customization: Customize Character
 When going to the character customization screen, you will be able to choose which character to customize. After you choose them, you will see 4 tabs: Costume T.U.N.I.N.G., Voice, Emote and Emblem.
+<p align="center">
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/customizetuto1.png" width="400"/>
+</p>
 
 ## Costume T.U.N.I.N.G.
 Here you can choose the costume you want your character to wear. Each costume line comes with 5 color variations, these are usually labeled as "Villain Style" (or "Hero Style" if it's a villain), "Heat", "Combat", "Fancy", and "Dangerous".
+<p align="center">
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/customizetuto4.png" width="400"/>
+</p>
 
 Costumes have rarities, which you can see to the left of the character when hovering over the costume, and also by the frame's color. The rarities are:
 
@@ -19,91 +25,69 @@ Costumes have rarities, which you can see to the left of the character when hove
 - PUR Rarity (Plus Ultra Rare): The most valuable and abundant costume rarity. Color variations for these skins retain this rarity. These have a rainbow frame.
 
 Costumes and their color variants can either be obtained from gacha banners, from the Hero License/Pro License and the Special License, from Ranked Rewards, from Event Shops, or by unlocking them with gold (below PUR rarity) or hero souls (PUR rarity) by clicking the costumes with a padlock.
+<p align="center">
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/lockedcostume.png" width="100"/>
+</p>
+
+To see how to obtain a specific costume, check their "Location Found". A good chunk of skins and recolors are permanently lost if you didn't get them in time however, such as past Ranked Rewards, past License costumes, past Event costumes or birthday costumes.
+<p align="center">
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/customizetuto5.png" width="400"/>
+</p>
 
 If you click a costume you own, you will see 5 options:
 
 - Layered Equip: This makes you equip a skin VISUALLY, the skin you layer will be the skin you and others will see.
 - T.U.N.I.N.G. Equip: This makes you equip a skin's Tuning build without equiping it visually, in case the build is godly but the costume hits like a divorce. If you don't know what Tuning is click HERE.
 - T.U.N.I.N.G.: This will open the Tuning screen, where you can equip your character small buffs and two special passive abilities.
-- Equip Aura: This allows you to equip your character with an aura. Auras come in 5 types: Tiny Blue Aura, Small Green Aura, Medium Yellow Aura, Huge Red Aura and Very Huge Ultimate Aura (this last one is white-rainbow for hero characters and purple for villain characters). Auras are exclusive to PUR costumes, and they can be obtained by unlocking the Tuning slots on the right column of the costume's tuning build, or by getting the same costume more than once (the latter shouldn't be done on purpose, if you want an aura, just unlock the slots).
+- Equip Aura: This allows you to equip your character with an aura. Auras come in 5 types: Tiny Blue Aura, Small Green Aura, Medium Yellow Aura, Huge Red Aura and Very Huge Ultimate Aura (this last one is white-rainbow for hero characters and purple for villain characters). Auras are exclusive to PUR costumes, and they can be obtained by unlocking the Tuning slots on the right column of the costume's tuning build, or by getting the same costume more than once (the latter shouldn't be done on purpose, if you want an aura, just unlock the slots). You can adjust who can see these auras in the Settings menu.
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/gifs/aura.gif" width="400"/>
+</p>
+
 - Mark as a Favorite: This will allow you to mark a build as favorite so you can swap between one favorite or another through buttons in the Character Selection Screen.
-
-
-
-
-To access the Agency Screen, simply click the "Menu" button on the bottom right of the screen and then the image button that says "Agency".
 <p align="center">
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/rankingtuto1.png" width="400"/>
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/agencytuto1.png" width="400"/>
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/customizetuto6.png" width="400"/>
 </p>
 
-# Agencies: Joining
-When opening the agency screen, you will be greeted by a list of agencies. You can either choose to join one of them, or you can choose to refresh for different options, or you can also use the "Filter" option on the top left to find one that fits your criteria. Some agencies are set as "Join", which means you can simply join them with no issues, however, others are set to "Apply", which means that you can't join them instantly, instead, you will have to wait for an agency member with enough permissions to accept you.
-
-If you want to join an agency you've found out about outside the game or in another player's profile, you can just go to the "Filter" option and type in the agency's ID code to find the exact agency.
+There's also a "Presets" feature located at the top left of the screen, where you can Save or Load different presets, in case you want to quickly switch from an aggressive build with White Hair Dabi as your layered costume or switch to a defensive build with Cyberpunk Dabi as your layered costume. Each preset can also have a different emote, voice or emblem set.
 <p align="center">
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/agencytuto2.png" width="400"/>
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/agencytuto3.png" width="400"/>
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/customizetuto7.png" width="400"/>
 </p>
 
-# Agencies: Creation
-Another option you have is to create your very own agency by going to the "Create Agency" tab on the top right of the agency screen. Creating an agency is completly free, you don't need wealth, fame or power, just sheer faith in what you're doing. When creating your agency, you will be able to give it a name, a description, set up a few details about it, and choose an emblem for it. The name you choose might not be allowed if it contains a banned word, a common issue is "ho", any word containing "ho" is banned, sad for those in christmas season.
+## Voice
+Here you can add, remove or change the voices in your voice wheel, as well as buying some of them for gold. If there's one you find funny or simply like, feel free to add it, but one you should have is either an Apology or Regret voiceline to let your teammates know that you're sorry when you mess up or when they've been DOWNd but you can't do anything for them, it will make interactions smoother. 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/agencytuto4.png" width="400"/>
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/agencytuto5.png" width="400"/>
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/customizetuto8.png" width="400"/>
 </p>
 
-# Agencies: The Gameplay
-Agencies have 4 tabs: Main, Member, Records and Bulletin Board.
+## Emotes
+Here you can setup your emote wheel to increase expressiveness with enemy teams and allies, and overall have a fun time. You can also use these in the Win Screen if your team won. Every character comes with a set of default emotes of Common (C) rarity:
 
-## Main
-Aside from the main info like the agency's leader and agency description, you will find a few features. The first feature is License EXP Boost, a button only agency leaders and co-leaders can press when the agency levels up, which for a limited amount of time will trigger a License EXP Boost. You should try to play as much as possible while this boost is active to level up your license as fast as possible.
+- Greeting: A simple emote to say Hi, nothing too crazy.
+- Roger That: An "I Agree" emote, quite friendly and shows approval.
+- No Can Do: An "I Disagree" emote, either used in mindless emote-spamming, or to show your distaste for something, like when your teammate is being morally questionable with a DOWNd enemy.
+- Clap Your Hands: A simple clapping emote to socialize further. It can be used to tell your enemy they did well (mostly in solos), but some people might take it as an insult, especially when coming from Bakugo or Shigaraki.
 
-The second feature is white "Menu" button on the right, where you can invite people to the agency, leave, see the amount of people that applied to join the agency (and accept/decline them if you're a leader/co-leader), or change the agency's information if your authority is high enough.
+SR Rarity emotes can be unlocked from the gacha, events, or by buying them with gold if they have a padlock on top. These can be (but not limited to):
 
-The third feature are the three donation points: Aid Center, Gym and Agency. You can level these up by using Agency Points, which are blue orbs with the letter over them.<br><br>
-Leveling Aid Center will increase the amount of Contribution Points your agency gains, which are basically the Agency equivalent of ranked points.
-Leveling Gym will increase the amount of Player EXP you gain. Not the most useful thing.
-Leveling Agency will increase the amount of Gold you gain, not really a resource you will often find yourself lacking if at all.
+- Bow: A bow used often to signal respect or apology, either because they played well but still lost, or because you felt you were a bit too harsh even though it's the nature of the game.
+- That's The Point: Usually an emote where the character points forward. Usually used in the Win Screen as a "Ha! Take That!" to boast about your victory or sometimes to mock the enemy (Please don't).
+- At Attention: A straight pose without much going for it.
+- Triumphant: A celebration emote often used in the Win Screen to celebrate your victory!
+
+Unlike R Rarity emotes, PUR emotes do exist, though currently only 3 of these exist, these being Ochaco Uraraka, Tsuyu Asui and Nejire Hado's "Dance" emotes, which can be bought along with a crystal pack for real money in the Premium Shop.
+  
 <p align="center">
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/agencytuto6.png" width="800"/>
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/customizetuto9.png" width="400"/>
 </p>
 
-Leveling these three donation points is important to raise the overall Agency Level, which will allow the agency to sustain more members, as new agencies can only support 10 players, while max level agencies can support up to 40 players.
+## Emblem
+Here you can set the 3 emblems that will be displayed in your profile, My Banner, and the friend list/"recently played with" list from other people. The emblems you set are specific to that character, so if you equip these on Bakugo but decide to play one round on Shoto, those emblems won't appear, as you will be on Shoto. These emblems are obtained from completing missions labeled as "Special". You can see a preview by cling "Preview".<br>
 
-On the left side you might also see stuff concerning leagues, but that's for later in this sub-guide.
-
-## Member
-In the member tab you can see every player currently in the agency and whether or not they're online. You can also see their Contribution Points and even send them likes. The player with a golden flag is the leader, while silver flags represent co-leaders.
-
-Leaders from agencies tha tcare about their ranking often use the "Sort" button on the upper left side to sort members by Most or Least Contribution Points, so remember to use this if you're the leader of an agency aiming for the top.
+Keep in mind that you can only equip General Emblems or Character Specific emblems that match your character, meaning that you can't equip Shoto emblems on Dabi. Finding out which emblems are character-specific isn't that obvious, since aside from those that feature the character's face, there are many like the KO and Damage ones that are character specific, yet this isn't specified anywhere.
 <p align="center">
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/agencytuto7.png" width="400"/>
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/customizetuto10.png" width="400"/>
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/customizetuto11.png" width="400"/>
 </p>
 
-## Records
-Here you will see general notifications such as an agency member's winstreak or other changes to the agency.
-
-## Bulletin Board
-The agency's chat, that's really it.
-
-# Agencies: Ranking and Leagues
-While players climb the player ranking by receiving likes (Bulletin Board) and gaining points in ranked matches (MVP), agencies climb ranks through simply playing matches. Everytime you play a match, you get a certain amount of Contribution Points that is higher the better you perform in a match, however, unlike ranked points for individual players, these do not go down, so agency rankings are mostly about who plays the most matches in a season. Unfortunately, the top 15~ agencies (at least on Steam) are cheat agencies, so those placements are lost. The higher your agency places in the ranking, the better your rewards will be. Click the "See Rewards" button for more information.
-<p align="center">
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/agencytuto8.png" width="400"/>
-</p>
-
-We also have the Elite Agency ranking. For a limited amount of time, all agencies will be ranked based on the Contribution Points of the agency's Top 10 members. When the Elite Agency countdown reaches zero (you can see this in the See Rewards button), your agency will be promoted to a higher league or demoted to a lower league. Promotion or Demotion depend on whether you place above or below the Promotion Line (which you can see on the left side). If you place below the Promotion Line, you will be demoted (unless you're Rookie League, since that's the lowest), but if you place higher, you will be promoted to the next League. You wanna place high to get extra rewards.
-<p align="center">
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/agencytuto9.png" width="400"/>
-</p>
-
-The leagues are, from lowest to highest:
-
-- Rookie League
-- ??? League
-- ??? League
-- Ultra League
-- Plus Ultra League
-
-
+# Customization: My Banner
