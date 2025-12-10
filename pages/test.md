@@ -1,13 +1,70 @@
-# Ultimate Guide to My Hero Ultra Rumble
+<link rel="stylesheet" href="ultrarumbleguide\styles\style.css">
 
-<div style="background-image: url('/images/401.jpg'); background-size: cover; background-position: center; padding: 0px;">
+<style>
+.character-box {
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+}
 
-| <a href="/pages/quirk-skill-set/shoto-todoroki-ice-fang-wind-flame.md"><img src="/images/401.jpg" width="350" /></a> | <a href="/pages/quirk-skill-set/shoto-todoroki-ice-fang-wind-flame.md"><img src="/images/401.jpg" width="350" /></a> | <a href="/pages/quirk-skill-set/shoto-todoroki-ice-fang-wind-flame.md"><img src="/images/401.jpg" width="350" /></a> |
-|-------------------------------------------|-------------------------------------------|-------------------------------------------|
-| <a href="/pages/quirk-skill-set/shoto-todoroki-ice-fang-wind-flame.md"><img src="/images/401.jpg" width="350" /></a> | <a href="/pages/quirk-skill-set/shoto-todoroki-ice-fang-wind-flame.md"><img src="/images/401.jpg" width="350" /></a> | <a href="/pages/quirk-skill-set/shoto-todoroki-ice-fang-wind-flame.md"><img src="/images/401.jpg" width="350" /></a> |
-| <a href="/pages/quirk-skill-set/shoto-todoroki-ice-fang-wind-flame.md"><img src="/images/401.jpg" width="350" /></a> | <a href="/pages/quirk-skill-set/shoto-todoroki-ice-fang-wind-flame.md"><img src="/images/401.jpg" width="350" /></a> | <a href="/pages/quirk-skill-set/shoto-todoroki-ice-fang-wind-flame.md"><img src="/images/401.jpg" width="350" /></a> |
-| <a href="/pages/quirk-skill-set/shoto-todoroki-ice-fang-wind-flame.md"><img src="/images/401.jpg" width="350" /></a> | <a href="/pages/quirk-skill-set/shoto-todoroki-ice-fang-wind-flame.md"><img src="/images/401.jpg" width="350" /></a> | <a href="/pages/quirk-skill-set/shoto-todoroki-ice-fang-wind-flame.md"><img src="/images/401.jpg" width="350" /></a> |
-| <a href="/pages/quirk-skill-set/shoto-todoroki-ice-fang-wind-flame.md"><img src="/images/401.jpg" width="350" /></a> | <a href="/pages/quirk-skill-set/shoto-todoroki-ice-fang-wind-flame.md"><img src="/images/401.jpg" width="350" /></a> | <a href="/pages/quirk-skill-set/shoto-todoroki-ice-fang-wind-flame.md"><img src="/images/401.jpg" width="350" /></a> |
-| <a href="/pages/quirk-skill-set/shoto-todoroki-ice-fang-wind-flame.md"><img src="/images/401.jpg" width="350" /></a> | <a href="/pages/quirk-skill-set/shoto-todoroki-ice-fang-wind-flame.md"><img src="/images/401.jpg" width="350" /></a> | <a href="/pages/quirk-skill-set/shoto-todoroki-ice-fang-wind-flame.md"><img src="/images/401.jpg" width="350" /></a> |
+.character-card {
+    display: flex;
+    flex-direction: row;
+    width: 100%; 
+    max-width: 520px; 
+    height: 200px; 
+    padding: 0px 15px;
+    gap: 15px;
+    text-align: left;
+    background-color: #24262E;
+    border-radius: 12px;
+    box-sizing: border-box; 
+    overflow: hidden;
+}
 
-</div>
+.character-image {
+    max-height: 135px;
+    align-self: center;
+}
+
+</style>
+
+<section class="character-box">
+    <div class="character-card">
+        <img class="character-image" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/deku_assault.png">
+        <div>
+            <h3>Izuku Midorya</h3>
+            <p>Is an assault-class character that excells in mid-ranged combat and can apply serius pressure by spamming his powerful alpha charges. The character is decent in terms of power, but he's very demanding to player's aim</p>
+        </div>
+    </div>
+    <div class="character-card">
+        <img class="character-image" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/deku_assault.png">
+        <div>
+            <h3>Izuku Midorya</h3>
+            <p>Is an assault-class character that foajddhasfbai sfbnuhjabfuohqaebfheqvb oufqbfbquefadiuhfuaihfuayf ayufahfiahfoiuahfua</p>
+        </div>
+    </div>
+    <div class="character-card">
+        <img class="character-image" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/deku_assault.png">
+        <div>
+            <h3>Izuku Midorya</h3>
+            <p>Is an assault-class character that foajddhasfbaisfbnuhjabfuohqaebfheqvbou fqbfbquefadiuhfuaihfuayfg ayufahfiahfoiuahfua</p>
+        </div>
+    </div>
+    <div class="character-card">
+        <img class="character-image" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/deku_assault.png">
+        <div>
+            <h3>Izuku Midorya</h3>
+            <p>Is an assault-class character that foajddhasfbai sfbnuhjabfuohqaebfheqvb oufqbfbquefadiuhfuaihfuayf ayufahfiahfoiuahfua</p>
+        </div>
+    </div>
+    <div class="character-card">
+        <img class="character-image" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/deku_assault.png">
+        <div>
+            <h3>Izuku Midorya</h3>
+            <p>Is an assault-class character that foajddhasfbai sfbnuhjabfuohqaebfheqvb oufqbfbquefadiuhfuaihfuayf ayufahfiahfoiuahfua</p>
+        </div>
+    </div>
+</section>
