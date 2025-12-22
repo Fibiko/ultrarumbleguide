@@ -246,7 +246,7 @@ Right after the game starts, players have a small time period to choose their la
 
 First of all, it is crucial to land together. Choosing landing spots that are too far from each other means you won’t be able to rely on your teammates' protection or help them if they get attacked. 
 
-Another important notice is that landing too close to each other is also not a good strategy. By landing right on top of the head of your teammate means both of you will have to contest the same loot. In an ideal situation you should take uncontested loot, or at least contest it with your enemies. Taking loot from your teammates slows down both of you and gives your enemies more freedom.
+Another important notice is that landing too close to each other is also not a good strategy. Landing right on top of the head of your teammate means both of you will have to contest the same loot. In an ideal situation you should take uncontested loot, or at least contest it with your enemies. Taking loot from your teammates slows down both of you and gives your enemies more freedom.
 
 Another advice is landing in the same looting zone. Sometimes, the zones may be close to each other and inexperienced players may think that splitting their team in two and going for the Aquatic and Fire zone at the same time is a good idea. In fact, it is not. Most of the teams drop together and you have a slot chance to fight 2v3 or even 1v1. And even if your last teammate decides to come for help, they will have to traverse the area in between looting zones which naturally contains less loot for them.
 <p align="center">
@@ -308,7 +308,7 @@ Voice Chat will greatly enhance your team coordination and gameplay, so if you c
 
 # Downed Allies
 
-A common mistake for inexperienced players is either overcommitting to reviving their teammates or completely ignoring them. You should find a middle ground before your own safety and a chance for saving your teammate. You have full HP and there’s only one enemy around your teammate it always worths to try and protect them. Don’t try to pick them up, just be close and defend them from attacks. Even though it is technically a 1v1, your enemy will usually commit to finishing that kill which makes your duel much easier.
+A common mistake for inexperienced players is either overcommitting to reviving their teammates or completely ignoring them. You should find a middle ground between your own safety and a chance for saving your teammate. If you have full HP and there’s only one enemy around your teammate it always worths to try and protect them. Don’t try to pick them up, just be close and defend them from attacks. Even though it is technically a 1v1, your enemy will usually commit to finishing that kill which makes your duel much easier.
 
 If you are a  character with instant revive, you need to track your teammate’s health and get in range of your revival ability before they go down. Players of Ultra Rumble rarely let their downed enemies to lie down on the floor for more than a couple of seconds so you have to be ready revive your teammates as soon as possible.
 
